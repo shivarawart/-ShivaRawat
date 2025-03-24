@@ -1,4 +1,4 @@
-<h2 align="center"> 🌟 にちは! (Hello!) Welcome to my GitHub profile! 🎉  </h2>
+🌟 にちは! (Hello!) Welcome to my GitHub profile! 🎉  
 
 ---
 
