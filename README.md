@@ -23,12 +23,12 @@
 
 #### ⚙️ Backend & Database  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,django" alt="Backend Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,django,python" alt="Backend Tech Stack" />
 </p>
 
 #### 🤖 AI & Other Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,go,rust,linux" alt="AI & Dev Tools" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,go,linux" alt="AI & Dev Tools" />
 </p>
 
 ---
